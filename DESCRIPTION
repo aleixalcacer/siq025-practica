@@ -1,0 +1,16 @@
+Package: SIQ025
+Title: Software de modelización de sistemas industriales
+Version: 0.0.0.9000
+Authors@R:
+    person(given = "Aleix",
+           family = "Alcacer",
+           role = c("cre"),
+           email = "aalcacer@uji.com")
+Description: SIQ025 es un paquete de R creado en la asignatura de
+    modelización de sistemas industriales. Esta asignatura está incluida
+    dentro del máster en Matemática Computacional de la UJI.
+License: use_mit_license()
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
